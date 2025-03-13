@@ -11,3 +11,9 @@
   - Susie Paine
   - Sloane Sirota
   - Shawaiz Tabassum
+- Undergraduate Stuents:
+  - Maxwell Flanigan
+
+**Past Members**
+- Joseph Kania
+- Jordan Stanley
