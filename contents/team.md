@@ -18,7 +18,7 @@
 **Legacy Members**
 - Andrew Siemion (SETI Institute)
 - Aris Karastergiou (Oxford University)
-- Dan Werthimer (Univeristy of California, Berkeley)
+- Dan Werthimer (University of California, Berkeley)
 - Dave MacMahon (SETI Institute)
 - Devansh Agarwal (Former WVU PhD Student)
 - Golnoosh Golpayegani
