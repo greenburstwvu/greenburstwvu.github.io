@@ -312,7 +312,7 @@ svg {
 table {
   caption-side: bottom;
   border-collapse: separate;
-  border-spacing: 20px 0;
+  border-spacing: 25px 0;
 }
 
 caption {
@@ -336,6 +336,18 @@ th {
   border-color: inherit;
   border-style: solid;
   border-width: 0;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  color: white;
 }
 
 label {
