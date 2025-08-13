@@ -7,8 +7,8 @@
     <col style="width: 15%;">
     <col style="width: 20%;">
     <col style="width: 15%;">
-    <col style="width: 12.5%;">
-    <col style="width: 12.5%;">
+    <col style="width: 12%;">
+    <col style="width: 13%;">
   </colgroup>
     <thead>
         <tr>
