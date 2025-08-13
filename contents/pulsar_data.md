@@ -1,5 +1,4 @@
 <table >
-  tr:hover {background-color: #ddd;}
   <link href="styles.css" rel="stylesheet" media="all" />
     <thead>
         <tr>
