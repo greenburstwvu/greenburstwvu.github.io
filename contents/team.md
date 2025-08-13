@@ -4,27 +4,29 @@
 
 **Current Members**
 
-- Dr Duncan Lorimer (PI, WVU)
-- Dr Maura McLaughlin (Co-PI, WVU)
-- Joseph Kania (University of Manchester)
+- Dr. Duncan Lorimer, FRS (PI, WVU)
+- Dr. Maura McLaughlin (Co-PI, WVU)
+- Dr. Joseph Kania (University of Manchester)
 - Graduate Students:
   - Graham Doskoch (WVU)
+  - Abyss Halley (WVU)
   - Susie Paine (WVU)
   - Sloane Sirota (WVU)
+  - Ashley Stone (WVU)
   - Shawaiz Tabassum (WVU)
 - Undergraduate Students
   - Maxwell Flanigan (WVU)
 
 **Legacy Members**
-- Andrew Siemion (SETI Institute)
-- Aris Karastergiou (Oxford University)
-- Dan Werthimer (University of California, Berkeley)
-- Dave MacMahon (SETI Institute)
-- Devansh Agarwal (Former WVU PhD Student)
-- Golnoosh Golpayegani
-- Griffin Foster (Oxford University)
-- Jeff Cobb (University of California, Berkeley)
+- Dr. Andrew Siemion (SETI Institute)
+- Dr. Aris Karastergiou (Oxford University)
+- Dr. Dan Werthimer (University of California, Berkeley)
+- David MacMahon (SETI Institute)
+- Dr. Devansh Agarwal (Former WVU PhD Student)
+- Dr. Golnoosh Golpayegani
+- Dr. Griffin Foster (Oxford University)
+- Dr. Jeff Cobb (University of California, Berkeley)
 - Jordan Stanley
-- Mayuresh Surnis (IISER Bhopal)
+- Dr. Mayuresh Surnis (IISER Bhopal)
 - Pei Xin (University of California, Berkeley)
-- Wes Armour (Oxford University)
+- Dr. Wes Armour (Oxford University)
