@@ -1,5 +1,5 @@
 <table >
-  <link href="styles.css" rel="stylesheet" media="all" />
+  <link href="styles.css"/>
     <thead>
         <tr>
             <th>$PSR$</th>
