@@ -312,10 +312,8 @@ svg {
 table {
   caption-side: bottom;
   border-collapse: collapse;
-  border-spacing: 25px 0;
+  border-spacing: 35px 0;
 }
-
-tr:hover {background-color: #ddd;}
 
 caption {
   padding-top: 0.5rem;
@@ -339,6 +337,8 @@ td {
   border-width: 0;
 }
 
+tr: hover {background-color: #a1cfa6;}
+  
 td {
   border: 1px solid #ddd;
   padding: 8px;
@@ -350,6 +350,10 @@ th {
   text-align: left;
   color: white;
   background-color: #1a6e1e;
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+  
 }
 
 label {
