@@ -1,4 +1,4 @@
-<table >
+<table class="tbody">
   <link href="styles.css" rel="stylesheet" media="all" />
     <thead>
         <tr>
