@@ -315,6 +315,8 @@ table {
   border-spacing: 25px 0;
 }
 
+tr:hover {background-color: #ddd;}
+
 caption {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
