@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <table >
   <link href="styles.css"/>
     <thead>
