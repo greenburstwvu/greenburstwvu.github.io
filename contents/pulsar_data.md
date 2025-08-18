@@ -11,7 +11,7 @@
     <col style="width: 15%;">
   </colgroup>
   <caption> 
-  Summary of previously known pulsars detected during GREENBURST operations. For each pulsar, web list the spin period ($P$), dispersion measure (DM), 1400~MHz flux density ($S_{1400}$), number of epochs ($N_{\rm epochs}$) and the total number of pulses detected to date ($N_{\rm pulses}$).
+  Summary of previously known pulsars detected during GREENBURST operations. For each pulsar, web list the spin period ($P$), dispersion measure (DM), 1400~MHz flux density ($S_{1400}$), number of epochs ($N_{\\ epochs}$) and the total number of pulses detected to date ($N_{\\ pulses}$).
   </caption>
     <thead>
         <tr>
