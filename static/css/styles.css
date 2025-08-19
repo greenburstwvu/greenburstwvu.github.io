@@ -337,7 +337,7 @@ td {
   border-width: 0;
 }
 
-tr: hover {background-color: #a1cfa6;}
+tr: hover {background-color: var(#a1cfa6);}
   
 td {
   border: 1px solid #ddd;
