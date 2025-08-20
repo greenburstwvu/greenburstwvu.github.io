@@ -5,4 +5,4 @@ GREENBURST is a commensal radio survey searching for fast radio bursts and other
 Based at West Virginia University, GREENBURST has been operational for over half a decade. We’ve produced constraints on the fast radio burst all-sky rate and continue to search for new candidates. Our current work focuses on fast radio bursts, ultra-long period transients, and targeted searches of individual galaxies. Whenever the GBT is operational, we’re watching the sky.
 
 
-For any inquiries about the GREENBURST Collaboration, feel free to reach out to the PI of the project, <a href="mailto:duncan.lorimer@mail.wvu.edu">Dr. Duncan Lorimer</a>
+For any inquiries about the GREENBURST Collaboration, feel free to reach out to the PI of the project, Dr. Duncan Lorimer ( duncan [[dot]] lorimer [[at]] mail [[dot]] wvu [[dot]] edu ).
