@@ -15,16 +15,16 @@
   </caption>
     <thead>
         <tr>
-            <th>$PSR$</th>
-            <th>$P$ $(ms)$</th>
-            <th>$DM$ $(pc/cm^3)$</th>
-            <th>$S_{1400}$</th>
+            <th>PSR</th>
+            <th>P (ms)</th>
+            <th>DM $(pc/cm^3)$</th>
+            <th>$S_{1400}$ (mJy)</th>
             <th>$N_{\\ epochs}$</th>
             <th>$N_{\\ pulses}$</th>
         </tr>
     </thead>
     <tr>
-        <td>B$0144+59$</td>
+        <td><a href="https://github.com/greenburstwvu/greenburst_pulsar_data/tree/ae0976094f908e56e6c9e67001d8dba833c536e0/B0144%2B59">B$0144+59$</a></td>
         <td>$196.32$</td>
         <td>$40.1$</td>
         <td>$2.1$</td>
