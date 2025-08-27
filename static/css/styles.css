@@ -247,6 +247,7 @@ sup {
 
 a {
   color: var(--bs-link-color);
+  text_decoration: none;
 }
 a:hover {
   color: var(--bs-link-hover-color);
