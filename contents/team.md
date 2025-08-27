@@ -16,6 +16,8 @@
   - Shawaiz Tabassum (WVU)
 - Undergraduate Students
   - Maxwell Flanigan (WVU)
+- High School Students
+  - Jacob Lituchy (MHS)
 
 **Legacy Members**
 - Dr. Andrew Siemion (SETI Institute)
