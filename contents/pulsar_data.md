@@ -27,7 +27,7 @@
         </tr>
     </thead>
     <tr>
-        <td><a href="https://github.com/greenburstwvu/greenburst_pulsar_data/tree/ae0976094f908e56e6c9e67001d8dba833c536e0/B0144%2B59" target="_blank">B$0144+59$</a></td>
+        <td>B$0144+59$</td>
         <td>$196.32$</td>
         <td>$40.1$</td>
         <td>$2.1$</td>
@@ -35,7 +35,7 @@
         <td>$4$</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/greenburstwvu/greenburst_pulsar_data/tree/ae0976094f908e56e6c9e67001d8dba833c536e0/B0301%2B19" target="_blank">B$0301+19$</a></td>
+        <td>B$0301+19$</td>
         <td>$1387.58$</td>
         <td>$15.7$</td>
         <td>$15.0$</td>
@@ -43,7 +43,7 @@
         <td>$4$</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/greenburstwvu/greenburst_pulsar_data/tree/ae0976094f908e56e6c9e67001d8dba833c536e0/B0329%2B54" target="_blank">B$0329+54$</a></td>
+        <td>B$0329+54$</td>
         <td>$714.52$</td>
         <td>$26.8$</td>
         <td>$203.0$</td>
@@ -51,7 +51,7 @@
         <td>$837$</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/greenburstwvu/greenburst_pulsar_data/tree/ae0976094f908e56e6c9e67001d8dba833c536e0/B0355%2B54" target="_blank">B$0355+54$</a></td>
+        <td>B$0355+54$</td>
         <td>$156.38$</td>
         <td>$57.1$</td>
         <td>$23.0$</td>
