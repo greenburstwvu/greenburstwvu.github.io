@@ -1,7 +1,11 @@
 <!DOCTYPE html>
-caption sub {
-  background: transparent;
-}
+
+<style>
+  caption sub {
+    background: transparent;
+  }
+</style>
+
 <body >
   The following table shows the pulsars that have been detected by the GREENBURST pipeline. By clicking the name of the pulsar, you will be taken to a github repository that contains up to the first ten single pulse profiles of that given pulsar.
 </body>
