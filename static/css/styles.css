@@ -239,6 +239,7 @@ sup {
 
 sub {
   bottom: -0.25em;
+  background: transparent;
 }
 
 sup {
