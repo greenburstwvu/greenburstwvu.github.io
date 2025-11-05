@@ -16,6 +16,7 @@
   - Shawaiz Tabassum (WVU)
 - Undergraduate Students
   - Maxwell Flanigan (WVU)
+  - Morrigan Passey (WVU)
 - High School Students
   - Jacob Lituchy (MHS)
 
