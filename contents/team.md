@@ -15,7 +15,7 @@
   - Ashley Stone (WVU)
   - Shawaiz Tabassum (WVU)
 - Undergraduate Students
-  - Maxwell Flanigan (WVU)
+  - Maxwell Flanagan (WVU)
   - Morrigan Passey (WVU)
 - High School Students
   - Jacob Lituchy (MHS)
